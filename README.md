@@ -1,28 +1,21 @@
 # RoR Excel Dashboard Deliverable Pack
 
-This repository now includes a complete, submission-ready planning pack for your individual RoR dashboard assignment.
+This repository now provides a complete, implementation-focused package to build the **actual RoR management dashboard** in Windows Excel using the Data Model.
 
-## Included Files
+## Start Here
 
-- `docs/dashboard-design-brief.md`  
-  Executive-style design brief with audience, KPIs, chart choices, layout plan, and formatting standards.
-- `docs/pivot-and-model-spec.md`  
-  Exact data model relationships, calculated fields/measures, and PivotTable/PivotChart build specs.
-- `docs/build-and-qa-checklist.md`  
-  Step-by-step build checklist + validation checklist + grading alignment checklist.
+- **Primary build guide:** `docs/ror-dashboard-build-playbook.md`
 
-## How to Use This Pack
+## Supporting Docs
 
-1. Open `dashboard-design-brief.md` first (what to build and why).
-2. Use `pivot-and-model-spec.md` while building in Excel.
-3. Use `build-and-qa-checklist.md` before submission.
+- `docs/dashboard-design-brief.md` — design intent and management-focused scope
+- `docs/pivot-and-model-spec.md` — model + pivot technical specification
+- `docs/build-and-qa-checklist.md` — build, QA, and grading readiness checklist
 
-## Assignment Constraints Covered
+## What This Pack Covers
 
-- Multi-table data model with relationships (required)
-- Management-relevant visuals only
-- Accuracy and completeness checks
-- Professional, easy-to-read dashboard layout
-- Individual work expectations
-
-If you share your actual RoR column names, this pack can be personalized to your exact dataset in a second revision.
+- Multi-table relationship map for RoR entities
+- Exact KPI and measure definitions (Revenue, Purchase Cost, Gross Profit, Margin, Expenses, Receipts)
+- Exact PivotTable/PivotChart configurations
+- One-page professional layout plan
+- Final grading checklist and “what to cut first” guidance
