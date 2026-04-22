@@ -5,6 +5,7 @@ This repository now provides a complete, implementation-focused package to build
 ## Start Here
 
 - **Primary build guide:** `docs/ror-dashboard-build-playbook.md`
+- **Professor-style refinement:** `docs/professor-critique-and-final-build.md`
 
 ## Supporting Docs
 
@@ -14,6 +15,8 @@ This repository now provides a complete, implementation-focused package to build
 
 ## What This Pack Covers
 
+- Professor-style critique of visual choices and redundancy
+- Ranked visual priority for one-page management reporting
 - Multi-table relationship map for RoR entities
 - Exact KPI and measure definitions (Revenue, Purchase Cost, Gross Profit, Margin, Expenses, Receipts)
 - Exact PivotTable/PivotChart configurations
